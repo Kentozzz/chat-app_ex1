@@ -9,4 +9,3 @@ class Message < ApplicationRecord
     self.image.attached?
   end
 end
-# メッセージ送信機能を実装しました
